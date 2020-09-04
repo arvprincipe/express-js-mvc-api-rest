@@ -1,0 +1,26 @@
+{
+  "name": "express-js-mvc-api-rest",
+  "version": "1.0.0",
+  "description": "Express JS - MVC - API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvprincipe/express-js-mvc-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvprincipe/express-js-mvc-api-rest/issues"
+  },
+  "homepage": "https://github.com/arvprincipe/express-js-mvc-api-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  }
+}
