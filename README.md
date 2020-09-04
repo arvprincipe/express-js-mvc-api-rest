@@ -36,7 +36,7 @@ test the http paths
 - http://<host>:<poort>/api/products  GET
 
 - http://<host>:<poort>/api/products  POST
-body
+### body
 ```json
 {
     "name": "Product demo 0002",
